@@ -36,4 +36,20 @@ main{
     font-size: 22pt;
     color: #8E3200;
 }
+.titulo-produto{
+    margin: 0%;
+    font-size: 18pt;
+    font-family: bold;
+    color: white;background-color: #8E3200;
+    padding: 7px;
+}
 
+.produto-imagem{
+
+    width: 240px;
+}
+
+p{
+    margin-bottom: 50px;
+
+}
